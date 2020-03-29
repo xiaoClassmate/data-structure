@@ -1,2 +1,3 @@
 # data_structure
-learning record  use c language
+learning record  
+use c language
